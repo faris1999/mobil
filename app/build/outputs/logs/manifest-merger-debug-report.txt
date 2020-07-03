@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ffa8e05758dcda5b2f5491725ea4f386\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ba91c27c98d7e5fe2df6b73104e023f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\42f0d33e3acbb0ad2ff5b4f05fe48a9c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e6bd0709a565e77954e16da42377348a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\bdd1edfc02b3b563cd27e76f5a800319\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\cfdb08563c343c975c91c350e1057a9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\5c640a2fe286e340be8e11b0e1c82ead\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ec06346b36a90143e470d91fae85aa86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\8ae2ef106ff49514ca3ebc059b28fee0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\b49d9e89a933c662a1cd7689a16b7531\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\2dc8e7762ab6c4d454990b36be2f61c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0d014e1bb35e0912e10af8bac7221c2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ab7c0b734ea96607220c1be637822efa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\46a77cd038b22a5ecf22a2fa76798780\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\50bd728e159609eaf6a635cc674c89d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\4f6cbb643473819ea3df3410e260e88a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\a89e2ae55761a37e651b07091fe34968\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\31f2c33cadffd699c133cffd74be210e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0f96e8cd2df1e215542997d0968c6674\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e67fea5e21f1b1ff839d2797bbaba22d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e7934c2f06d76f0be55b461ac20077bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\f98f85009ce821f0405dd9b59bb95413\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\f7871e92865d74380e344456f77b8775\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\1e1a1e2d359b0ce24b44ef09a321318c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\abf242dbfa9ce353bcae1e50a95a796c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\1f92091ec50f16298e82ab4d75d495c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\995da949ae472cd79fab4fc036e1701d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\a8d772f49d78171f290470d3b8e11631\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\41e939a471aa4390861681c3a3f7324a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\c4ea6b4408dcc28096518e734bb340c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\545ca64e1e2694e53ed745aa1270bfea\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ffa8e05758dcda5b2f5491725ea4f386\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ffa8e05758dcda5b2f5491725ea4f386\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\42f0d33e3acbb0ad2ff5b4f05fe48a9c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\42f0d33e3acbb0ad2ff5b4f05fe48a9c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0f96e8cd2df1e215542997d0968c6674\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0f96e8cd2df1e215542997d0968c6674\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e67fea5e21f1b1ff839d2797bbaba22d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e67fea5e21f1b1ff839d2797bbaba22d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0f96e8cd2df1e215542997d0968c6674\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:8:9-37
+	android:roundIcon
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.aplikasi.mobil.MainActivity
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:12:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.aplikasi.mobil.BuatKontak
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:label
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:20:13-48
+	android:name
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:19:19-63
+activity#com.aplikasi.mobil.LihatKontak
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:label
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:23:13-40
+	android:name
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:22:19-64
+activity#com.aplikasi.mobil.UpdateKontak
+ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:label
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:26:13-39
+	android:name
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml:25:19-65
+uses-sdk
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ffa8e05758dcda5b2f5491725ea4f386\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ffa8e05758dcda5b2f5491725ea4f386\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ba91c27c98d7e5fe2df6b73104e023f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ba91c27c98d7e5fe2df6b73104e023f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\42f0d33e3acbb0ad2ff5b4f05fe48a9c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\42f0d33e3acbb0ad2ff5b4f05fe48a9c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e6bd0709a565e77954e16da42377348a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e6bd0709a565e77954e16da42377348a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\bdd1edfc02b3b563cd27e76f5a800319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\bdd1edfc02b3b563cd27e76f5a800319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\cfdb08563c343c975c91c350e1057a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\cfdb08563c343c975c91c350e1057a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\5c640a2fe286e340be8e11b0e1c82ead\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\5c640a2fe286e340be8e11b0e1c82ead\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ec06346b36a90143e470d91fae85aa86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ec06346b36a90143e470d91fae85aa86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\8ae2ef106ff49514ca3ebc059b28fee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\8ae2ef106ff49514ca3ebc059b28fee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\b49d9e89a933c662a1cd7689a16b7531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\b49d9e89a933c662a1cd7689a16b7531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\2dc8e7762ab6c4d454990b36be2f61c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\2dc8e7762ab6c4d454990b36be2f61c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0d014e1bb35e0912e10af8bac7221c2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0d014e1bb35e0912e10af8bac7221c2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ab7c0b734ea96607220c1be637822efa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\ab7c0b734ea96607220c1be637822efa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\46a77cd038b22a5ecf22a2fa76798780\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\46a77cd038b22a5ecf22a2fa76798780\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\50bd728e159609eaf6a635cc674c89d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\50bd728e159609eaf6a635cc674c89d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\4f6cbb643473819ea3df3410e260e88a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\4f6cbb643473819ea3df3410e260e88a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\a89e2ae55761a37e651b07091fe34968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\a89e2ae55761a37e651b07091fe34968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\31f2c33cadffd699c133cffd74be210e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\31f2c33cadffd699c133cffd74be210e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0f96e8cd2df1e215542997d0968c6674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\0f96e8cd2df1e215542997d0968c6674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e67fea5e21f1b1ff839d2797bbaba22d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e67fea5e21f1b1ff839d2797bbaba22d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e7934c2f06d76f0be55b461ac20077bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\e7934c2f06d76f0be55b461ac20077bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\f98f85009ce821f0405dd9b59bb95413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\f98f85009ce821f0405dd9b59bb95413\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\f7871e92865d74380e344456f77b8775\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\f7871e92865d74380e344456f77b8775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\1e1a1e2d359b0ce24b44ef09a321318c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\1e1a1e2d359b0ce24b44ef09a321318c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\abf242dbfa9ce353bcae1e50a95a796c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\abf242dbfa9ce353bcae1e50a95a796c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\1f92091ec50f16298e82ab4d75d495c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\1f92091ec50f16298e82ab4d75d495c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\995da949ae472cd79fab4fc036e1701d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\995da949ae472cd79fab4fc036e1701d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\a8d772f49d78171f290470d3b8e11631\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\a8d772f49d78171f290470d3b8e11631\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\41e939a471aa4390861681c3a3f7324a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\41e939a471aa4390861681c3a3f7324a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\c4ea6b4408dcc28096518e734bb340c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\c4ea6b4408dcc28096518e734bb340c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\545ca64e1e2694e53ed745aa1270bfea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS X441B\.gradle\caches\transforms-2\files-2.1\545ca64e1e2694e53ed745aa1270bfea\AndroidManifest.xml:20:5-44
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+		ADDED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
+		INJECTED from E:\pak cahya\mobil\app\src\main\AndroidManifest.xml
